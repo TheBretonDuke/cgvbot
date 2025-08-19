@@ -4,6 +4,7 @@
 - **Livraison** : 8 juillet 2025
 - **Plateforme** : code + doc sur **GitHub**
 - Par Alan et Simon
+- LICENSE MIT
 
 ---
 
