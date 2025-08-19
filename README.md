@@ -5,6 +5,7 @@
 - **Plateforme** : code + doc sur **GitHub**
 - Par Alan <https://github.com/AlanIsen-C> et Simon <https://github.com/TheBretonDuke>
 - LICENSE MIT
+- Autres livrables du projet: Power Point de l'oral et organigramme de l'agorithme 
 
 ---
 
