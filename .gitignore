@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+.env
+.env.*
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# OS / éditeur
+.DS_Store
+.vscode/
+.idea/
+
+# Données & sorties
+data/
+outputs/
+*.log
+*.tmp
+*.sqlite
+*.db
