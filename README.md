@@ -3,7 +3,7 @@
 - **Base de données** : **SQL**, explorée via **Adminer** en Docker
 - **Livraison** : 8 juillet 2025
 - **Plateforme** : code + doc sur **GitHub**
-- Par Alan et Simon
+- Par Alan <https://github.com/AlanIsen-C> et Simon <https://github.com/TheBretonDuke>
 - LICENSE MIT
 
 ---
